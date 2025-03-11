@@ -18,13 +18,13 @@ The primary dataset used for this analysis is stored in a MySQL database. It con
 
 
 
-Files
+## Files
 
 [SQL  query]
 
 
 
-SQL  Queries
+## SQL  Queries
 
 1.Customer Sales Analysis
 
@@ -65,7 +65,7 @@ SQL  Queries
 •	Highlights the customers contributing the most to revenue.
 
 
-Key Findings
+## Key Findings
 ________________________________________
 
 	Alice Brown is the highest-spending customer with total sales of $640.00, followed by John Doe and Jane Smith with $500.00 each.
@@ -78,14 +78,14 @@ ________________________________________
 
 	The top 3 customers in terms of total sales are Alice Brown, John Doe, and Jane Smith, showing that a small number of customers contribute significantly to revenue.
 
-How   to Use This Repo
+## How   to Use This Repo
 ________________________________________
 1.	Download the dataset from this repository
 2.	Open sales data. sql in database to explore raw data
 
 
 
-Contact
+## Contact
 ________________________________________
 •	LinkedIn:Ebenezer Asiedu
 
@@ -93,7 +93,7 @@ ________________________________________
 •	Email: easiedu362@gmail.com
 ________________________________________
 
-Contributing
+## Contributing
 
 
 Feel free to explore or suggest improvements! Submit a pull request or open an issue for discussions.
