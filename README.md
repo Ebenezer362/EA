@@ -9,8 +9,11 @@ to uncover trends, patterns, and insights. The dataset includes information abou
 Data Source
 
 The primary dataset used for this analysis is stored in a MySQL database. It consists of the following tables:
+
 •	Customers: Contains customer details.
+
 •	Orders: Stores sales transaction data.
+
 •	Products: Contains product-related information.
 
 
