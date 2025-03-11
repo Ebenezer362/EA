@@ -4,12 +4,19 @@ Overview
 This repository contains SQL queries and documentation for analyzing a sales dataset
 to uncover trends, patterns, and insights. The dataset includes information about customer transactions, product sales, and order details, allowing us to gain valuable business insights.
 Data Source
+
+
 The primary dataset used for this analysis is stored in a MySQL database. It consists of the following tables:
 •	Customers: Contains customer details.
 •	Orders: Stores sales transaction data.
 •	Products: Contains product-related information.
+
+
 Files
 [SQL  query]
+
+
+
 SQL  Queries
 1.Customer Sales Analysis
 	What is the total sales amount for each customer?
