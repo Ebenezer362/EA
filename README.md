@@ -1,12 +1,12 @@
-SQL Sales Data Analysis
+#SQL Sales Data Analysis
 ________________________________________
-Overview
+## Overview
 
 This repository contains SQL queries and documentation for analyzing a sales dataset
 to uncover trends, patterns, and insights. The dataset includes information about customer transactions, product sales, and order details, allowing us to gain valuable business insights.
 
 
-Data Source
+## Data Source
 
 The primary dataset used for this analysis is stored in a MySQL database. It consists of the following tables:
 
