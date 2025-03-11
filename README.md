@@ -88,10 +88,14 @@ ________________________________________
 Contact
 ________________________________________
 •	LinkedIn:Ebenezer Asiedu
+
+
 •	Email: easiedu362@gmail.com
 ________________________________________
 
 Contributing
+
+
 Feel free to explore or suggest improvements! Submit a pull request or open an issue for discussions.
 ________________________________________
 
