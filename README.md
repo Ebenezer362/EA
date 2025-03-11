@@ -8,7 +8,7 @@ to uncover trends, patterns, and insights. The dataset includes information abou
 
 ## Data Source
 
-The primary dataset used for this analysis is the "sales Data.sql" file, containing detailed information about the Customers, Orders, Products.
+The primary dataset used for this analysis is the "sales data.sql" file, containing detailed information about the Customers, Orders and Products.
 
 
 
