@@ -81,7 +81,7 @@ ________________________________________
 
 ## Contact
 ________________________________________
-•	LinkedIn:Ebenezer Asiedu
+•	LinkedIn: https://tinyurl.com/4a6m3kyh
 
 
 •	Email: easiedu362@gmail.com
